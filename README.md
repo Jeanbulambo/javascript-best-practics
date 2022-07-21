@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Live Demo Link](link here)
+[Live Demo Link]( https://jeanbulambo.github.io/Todolist/)
 
 ## Built With
 
@@ -30,7 +30,7 @@ clone the repo or download from git@github.com:Jeanbulambo/Todolist-repo.git
 npm install
 
 
-### Build the app'
+### Build the app
 
 npm run build
 
